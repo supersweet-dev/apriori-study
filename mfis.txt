@@ -1,0 +1,131 @@
+set # 1 :
+	 ('physician-fee-freeze',) :  177
+	 ('water-project-cost-sharing',) :  195
+	 ('el-salvador-aid',) :  212
+	 ('immigration',) :  216
+	 ('religious-groups-in-schools',) :  272
+	 ('superfund-right-to-sue',) :  209
+	 ('education-spending',) :  171
+	 ('republican',) :  168
+	 ('crime',) :  248
+	 ('democrat',) :  267
+	 ('adoption-of-the-budget-resolution',) :  253
+	 ('synfuels-corporation-cutback',) :  150
+	 ('handicapped-infants',) :  187
+	 ('duty-free-exports',) :  174
+	 ('anti-satellite-test-ban',) :  239
+	 ('mx-missile',) :  207
+	 ('aid-to-nicaraguan-contras',) :  242
+set # 2 :
+	 ('crime', 'education-spending') :  158
+	 ('crime', 'el-salvador-aid') :  194
+	 ('crime', 'immigration') :  137
+	 ('crime', 'physician-fee-freeze') :  168
+	 ('crime', 'religious-groups-in-schools') :  214
+	 ('crime', 'republican') :  158
+	 ('crime', 'superfund-right-to-sue') :  177
+	 ('education-spending', 'el-salvador-aid') :  149
+	 ('education-spending', 'physician-fee-freeze') :  141
+	 ('education-spending', 'religious-groups-in-schools') :  159
+	 ('education-spending', 'republican') :  135
+	 ('education-spending', 'superfund-right-to-sue') :  139
+	 ('el-salvador-aid', 'physician-fee-freeze') :  168
+	 ('el-salvador-aid', 'religious-groups-in-schools') :  197
+	 ('el-salvador-aid', 'republican') :  157
+	 ('el-salvador-aid', 'superfund-right-to-sue') :  170
+	 ('immigration', 'religious-groups-in-schools') :  146
+	 ('physician-fee-freeze', 'religious-groups-in-schools') :  160
+	 ('physician-fee-freeze', 'republican') :  163
+	 ('physician-fee-freeze', 'superfund-right-to-sue') :  145
+	 ('religious-groups-in-schools', 'republican') :  149
+	 ('religious-groups-in-schools', 'superfund-right-to-sue') :  186
+	 ('religious-groups-in-schools', 'water-project-cost-sharing') :  137
+	 ('republican', 'superfund-right-to-sue') :  136
+	 ('adoption-of-the-budget-resolution', 'democrat') :  231
+	 ('adoption-of-the-budget-resolution', 'duty-free-exports') :  151
+	 ('adoption-of-the-budget-resolution', 'handicapped-infants') :  151
+	 ('democrat', 'duty-free-exports') :  160
+	 ('democrat', 'handicapped-infants') :  156
+	 ('adoption-of-the-budget-resolution', 'aid-to-nicaraguan-contras') :  215
+	 ('adoption-of-the-budget-resolution', 'anti-satellite-test-ban') :  201
+	 ('adoption-of-the-budget-resolution', 'mx-missile') :  180
+	 ('aid-to-nicaraguan-contras', 'anti-satellite-test-ban') :  210
+	 ('aid-to-nicaraguan-contras', 'democrat') :  218
+	 ('aid-to-nicaraguan-contras', 'handicapped-infants') :  146
+	 ('aid-to-nicaraguan-contras', 'mx-missile') :  192
+	 ('anti-satellite-test-ban', 'democrat') :  200
+	 ('anti-satellite-test-ban', 'handicapped-infants') :  140
+	 ('anti-satellite-test-ban', 'mx-missile') :  182
+	 ('democrat', 'mx-missile') :  188
+	 ('aid-to-nicaraguan-contras', 'duty-free-exports') :  151
+	 ('anti-satellite-test-ban', 'duty-free-exports') :  145
+set # 3 :
+	 ('crime', 'education-spending', 'el-salvador-aid') :  144
+	 ('crime', 'education-spending', 'physician-fee-freeze') :  136
+	 ('crime', 'education-spending', 'religious-groups-in-schools') :  148
+	 ('crime', 'education-spending', 'superfund-right-to-sue') :  133
+	 ('crime', 'el-salvador-aid', 'physician-fee-freeze') :  160
+	 ('crime', 'el-salvador-aid', 'religious-groups-in-schools') :  180
+	 ('crime', 'el-salvador-aid', 'republican') :  149
+	 ('crime', 'el-salvador-aid', 'superfund-right-to-sue') :  162
+	 ('crime', 'physician-fee-freeze', 'religious-groups-in-schools') :  151
+	 ('crime', 'physician-fee-freeze', 'republican') :  155
+	 ('crime', 'physician-fee-freeze', 'superfund-right-to-sue') :  139
+	 ('crime', 'religious-groups-in-schools', 'republican') :  140
+	 ('crime', 'religious-groups-in-schools', 'superfund-right-to-sue') :  166
+	 ('education-spending', 'el-salvador-aid', 'physician-fee-freeze') :  138
+	 ('education-spending', 'el-salvador-aid', 'religious-groups-in-schools') :  141
+	 ('education-spending', 'el-salvador-aid', 'republican') :  131
+	 ('education-spending', 'el-salvador-aid', 'superfund-right-to-sue') :  131
+	 ('education-spending', 'physician-fee-freeze', 'religious-groups-in-schools') :  133
+	 ('education-spending', 'physician-fee-freeze', 'republican') :  134
+	 ('education-spending', 'religious-groups-in-schools', 'superfund-right-to-sue') :  132
+	 ('el-salvador-aid', 'physician-fee-freeze', 'religious-groups-in-schools') :  156
+	 ('el-salvador-aid', 'physician-fee-freeze', 'republican') :  156
+	 ('el-salvador-aid', 'physician-fee-freeze', 'superfund-right-to-sue') :  141
+	 ('el-salvador-aid', 'religious-groups-in-schools', 'republican') :  145
+	 ('el-salvador-aid', 'religious-groups-in-schools', 'superfund-right-to-sue') :  160
+	 ('el-salvador-aid', 'republican', 'superfund-right-to-sue') :  132
+	 ('physician-fee-freeze', 'religious-groups-in-schools', 'republican') :  147
+	 ('physician-fee-freeze', 'religious-groups-in-schools', 'superfund-right-to-sue') :  136
+	 ('physician-fee-freeze', 'republican', 'superfund-right-to-sue') :  135
+	 ('adoption-of-the-budget-resolution', 'democrat', 'duty-free-exports') :  144
+	 ('adoption-of-the-budget-resolution', 'democrat', 'handicapped-infants') :  142
+	 ('adoption-of-the-budget-resolution', 'aid-to-nicaraguan-contras', 'anti-satellite-test-ban') :  187
+	 ('adoption-of-the-budget-resolution', 'aid-to-nicaraguan-contras', 'democrat') :  203
+	 ('adoption-of-the-budget-resolution', 'aid-to-nicaraguan-contras', 'handicapped-infants') :  137
+	 ('adoption-of-the-budget-resolution', 'aid-to-nicaraguan-contras', 'mx-missile') :  171
+	 ('adoption-of-the-budget-resolution', 'anti-satellite-test-ban', 'democrat') :  184
+	 ('adoption-of-the-budget-resolution', 'anti-satellite-test-ban', 'mx-missile') :  161
+	 ('adoption-of-the-budget-resolution', 'democrat', 'mx-missile') :  171
+	 ('aid-to-nicaraguan-contras', 'anti-satellite-test-ban', 'democrat') :  189
+	 ('aid-to-nicaraguan-contras', 'anti-satellite-test-ban', 'mx-missile') :  173
+	 ('aid-to-nicaraguan-contras', 'democrat', 'handicapped-infants') :  135
+	 ('aid-to-nicaraguan-contras', 'democrat', 'mx-missile') :  179
+	 ('anti-satellite-test-ban', 'democrat', 'mx-missile') :  167
+	 ('adoption-of-the-budget-resolution', 'aid-to-nicaraguan-contras', 'duty-free-exports') :  138
+	 ('aid-to-nicaraguan-contras', 'anti-satellite-test-ban', 'duty-free-exports') :  135
+	 ('aid-to-nicaraguan-contras', 'democrat', 'duty-free-exports') :  145
+	 ('anti-satellite-test-ban', 'democrat', 'duty-free-exports') :  135
+set # 4 :
+	 ('crime', 'education-spending', 'el-salvador-aid', 'physician-fee-freeze') :  133
+	 ('crime', 'education-spending', 'el-salvador-aid', 'religious-groups-in-schools') :  136
+	 ('crime', 'el-salvador-aid', 'physician-fee-freeze', 'religious-groups-in-schools') :  148
+	 ('crime', 'el-salvador-aid', 'physician-fee-freeze', 'republican') :  148
+	 ('crime', 'el-salvador-aid', 'physician-fee-freeze', 'superfund-right-to-sue') :  136
+	 ('crime', 'el-salvador-aid', 'religious-groups-in-schools', 'republican') :  137
+	 ('crime', 'el-salvador-aid', 'religious-groups-in-schools', 'superfund-right-to-sue') :  153
+	 ('crime', 'physician-fee-freeze', 'religious-groups-in-schools', 'republican') :  139
+	 ('education-spending', 'el-salvador-aid', 'physician-fee-freeze', 'republican') :  131
+	 ('el-salvador-aid', 'physician-fee-freeze', 'religious-groups-in-schools', 'republican') :  144
+	 ('el-salvador-aid', 'physician-fee-freeze', 'religious-groups-in-schools', 'superfund-right-to-sue') :  133
+	 ('el-salvador-aid', 'physician-fee-freeze', 'republican', 'superfund-right-to-sue') :  132
+	 ('adoption-of-the-budget-resolution', 'aid-to-nicaraguan-contras', 'anti-satellite-test-ban', 'democrat') :  176
+	 ('adoption-of-the-budget-resolution', 'aid-to-nicaraguan-contras', 'anti-satellite-test-ban', 'mx-missile') :  155
+	 ('adoption-of-the-budget-resolution', 'aid-to-nicaraguan-contras', 'democrat', 'mx-missile') :  165
+	 ('adoption-of-the-budget-resolution', 'anti-satellite-test-ban', 'democrat', 'mx-missile') :  154
+	 ('aid-to-nicaraguan-contras', 'anti-satellite-test-ban', 'democrat', 'mx-missile') :  162
+	 ('adoption-of-the-budget-resolution', 'aid-to-nicaraguan-contras', 'democrat', 'duty-free-exports') :  133
+set # 5 :
+	 ('crime', 'el-salvador-aid', 'physician-fee-freeze', 'religious-groups-in-schools', 'republican') :  136
+	 ('adoption-of-the-budget-resolution', 'aid-to-nicaraguan-contras', 'anti-satellite-test-ban', 'democrat', 'mx-missile') :  150
